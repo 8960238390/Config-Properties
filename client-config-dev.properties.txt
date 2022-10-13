@@ -1,0 +1,1 @@
+msg = Hello by config server from dev properties file
